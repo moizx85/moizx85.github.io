@@ -25,38 +25,7 @@ const PortfolioData = [
       },
     ],
   },
-  {
-    id: 2,
-    type: "youtube project",
-    image: Image2,
-    tag: ["video"],
-    delayAnimation: "100",
-    modalDetails: [
-      {
-        project: "video",
-        client: "Videohive",
-        language: " Adobe After Effects",
-        preview: "www.videohive.net",
-        link: "https://www.videohive.net",
-      },
-    ],
-  },
-  {
-    id: 3,
-    type: "slider project",
-    image: Image3,
-    tag: [],
-    delayAnimation: "200",
-    modalDetails: [
-      {
-        project: "Website",
-        client: "Themeforest",
-        language: " HTML, CSS, Javascript",
-        preview: "www.envato.com",
-        link: "https://www.envato.com",
-      },
-    ],
-  },
+
   
   
   
