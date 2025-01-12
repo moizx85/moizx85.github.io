@@ -5,6 +5,10 @@ import img3 from "../assets/img/blog/blog-post-3.jpg";
 import img4 from "../assets/img/blog/blog-post-4.jpg";
 import img5 from "../assets/img/blog/blog-post-5.jpg";
 import img6 from "../assets/img/blog/blog-post-6.jpg";
+import img7 from "../assets/img/blog/blog-post-7.jpg";
+import img8 from "../assets/img/blog/blog-post-8.jpg";
+import img9 from "../assets/img/blog/blog-post-9.jpg";
+import img10 from "../assets/img/blog/blog-post-10.jpg";
 
 const AllBlogData = () => {
   const blogsData = [
@@ -56,9 +60,72 @@ const AllBlogData = () => {
       description4:
         "Learning about machine learning has given me insights into the incredible potential it holds for revolutionizing industries. In upcoming blogs, I will dive deeper into specific algorithms, projects, and techniques that have shaped my understanding of this dynamic field.",
     },
-
+    // New Blogs
+    {
+      id: 4,
+      img: img4,
+      title: "The Role of Neural Networks in Modern AI",
+      commentor: "Moiz",
+      date: "11 January 2025",
+      tag: `neural networks, artificial intelligence, deep learning, AI student`,
+      description1:
+        "Neural networks, inspired by the human brain, play a pivotal role in the development of intelligent systems capable of tackling complex tasks.",
+      description2:
+        "In my studies, I’ve explored the inner workings of neural networks, including backpropagation, activation functions, and optimization techniques.",
+      description3:
+        "These systems power some of the most groundbreaking applications in AI, including image recognition, natural language processing, and autonomous vehicles.",
+      description4:
+        "As I continue my AI journey, I look forward to building more projects that harness the power of neural networks to address real-world challenges.",
+    },
+    {
+      id: 5,
+      img: img5,
+      title: "Demystifying Reinforcement Learning in AI",
+      commentor: "Moiz",
+      date: "12 January 2025",
+      tag: `reinforcement learning, artificial intelligence, AI projects, technology`,
+      description1:
+        "Reinforcement learning (RL) is a powerful machine learning approach where agents learn by interacting with their environment to achieve specific goals.",
+      description2:
+        "Through coursework and projects, I’ve studied how RL can train AI to master complex tasks, such as playing games or managing resources efficiently.",
+      description3:
+        "Key concepts like reward functions, policies, and Q-learning have been instrumental in understanding the potential of reinforcement learning.",
+      description4:
+        "Exploring RL has opened my eyes to its potential to drive innovations in robotics, healthcare, and beyond.",
+    },
+    {
+      id: 6,
+      img: img6,
+      title: "AI Ethics: Navigating the Challenges of Responsible AI Development",
+      commentor: "Moiz",
+      date: "13 January 2025",
+      tag: `AI ethics, artificial intelligence, responsibility, technology`,
+      description1:
+        "As AI becomes more pervasive, ethical considerations are increasingly vital to ensure fairness, transparency, and accountability in AI systems.",
+      description2:
+        "In my AI studies, I’ve reflected on the societal impact of AI, including issues like bias in datasets, data privacy, and the ethics of automation.",
+      description3:
+        "Developers and researchers bear a significant responsibility in ensuring that AI technologies serve humanity positively and inclusively.",
+      description4:
+        "In this blog, I explore how ethical practices can guide the future development of AI and its integration into society.",
+    },
+    {
+      id: 7,
+      img: img7,
+      title: "Applications of Computer Vision in Real-World AI Solutions",
+      commentor: "Moiz",
+      date: "14 January 2025",
+      tag: `computer vision, artificial intelligence, AI applications, technology`,
+      description1:
+        "Computer vision is a fascinating field of AI that focuses on enabling machines to interpret and analyze visual information from the world around us.",
+      description2:
+        "From facial recognition to autonomous vehicles, computer vision has countless applications that are shaping industries worldwide.",
+      description3:
+        "In my coursework, I’ve explored tools like OpenCV and techniques like object detection, image classification, and feature extraction.",
+      description4:
+        "Computer vision holds immense potential for innovation, and I’m excited to contribute to its growth through future projects and research.",
+    },
   ];
-  
 
   const [singleData, setSingleData] = useState({});
   const [isOpen, setIsOpen] = useState(false);
