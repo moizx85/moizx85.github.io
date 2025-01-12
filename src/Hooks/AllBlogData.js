@@ -6,9 +6,7 @@ import img4 from "../assets/img/blog/blog-post-4.jpg";
 import img5 from "../assets/img/blog/blog-post-5.jpg";
 import img6 from "../assets/img/blog/blog-post-6.jpg";
 import img7 from "../assets/img/blog/blog-post-7.jpg";
-import img8 from "../assets/img/blog/blog-post-8.jpg";
-import img9 from "../assets/img/blog/blog-post-9.jpg";
-import img10 from "../assets/img/blog/blog-post-10.jpg";
+
 
 const AllBlogData = () => {
   const blogsData = [
