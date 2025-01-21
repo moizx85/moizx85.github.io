@@ -254,7 +254,7 @@ const AllBlogData = () => {
   },
     {
   id: 15,
-  img: img8,
+  img: img15,
   title: "The Role of AI in Cybersecurity",
   commentor: "Moiz",
   date: "22 January 2025",
@@ -270,7 +270,7 @@ const AllBlogData = () => {
 },
 {
   id: 16,
-  img: img9,
+  img: img16,
   title: "AI and Big Data: A Perfect Match",
   commentor: "Moiz",
   date: "23 January 2025",
@@ -286,7 +286,7 @@ const AllBlogData = () => {
 },
 {
   id: 17,
-  img: img10,
+  img: img17,
   title: "Deep Learning: Unraveling the Power of Neural Networks",
   commentor: "Moiz",
   date: "24 January 2025",
@@ -302,7 +302,7 @@ const AllBlogData = () => {
 },
 {
   id: 18,
-  img: img11,
+  img: img18,
   title: "AI in E-Commerce: Enhancing Customer Experience",
   commentor: "Moiz",
   date: "25 January 2025",
@@ -318,7 +318,7 @@ const AllBlogData = () => {
 },
 {
   id: 19,
-  img: img12,
+  img: img19,
   title: "Computer Vision: Teaching Machines to See",
   commentor: "Moiz",
   date: "26 January 2025",
@@ -334,7 +334,7 @@ const AllBlogData = () => {
 },
 {
   id: 20,
-  img: img13,
+  img: img20,
   title: "AI in Financial Technology (FinTech)",
   commentor: "Moiz",
   date: "27 January 2025",
@@ -350,7 +350,7 @@ const AllBlogData = () => {
 },
 {
   id: 21,
-  img: img14,
+  img: img21,
   title: "The Future of AI in Autonomous Vehicles",
   commentor: "Moiz",
   date: "28 January 2025",
@@ -366,7 +366,7 @@ const AllBlogData = () => {
 },
 {
   id: 22,
-  img: img15,
+  img: img22,
   title: "The Impact of AI on Smart Cities",
   commentor: "Moiz",
   date: "29 January 2025",
@@ -382,7 +382,7 @@ const AllBlogData = () => {
 },
 {
   id: 23,
-  img: img16,
+  img: img23,
   title: "Reinforcement Learning: Training AI to Make Decisions",
   commentor: "Moiz",
   date: "30 January 2025",
@@ -398,7 +398,7 @@ const AllBlogData = () => {
 },
 {
   id: 24,
-  img: img17,
+  img: img24,
   title: "AI and the Ethical Challenges We Face",
   commentor: "Moiz",
   date: "31 January 2025",
